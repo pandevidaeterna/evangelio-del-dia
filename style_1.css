@@ -1,0 +1,155 @@
+#titulo {
+  background-color: rgb(229, 201, 16);
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+#menu-principal {
+  text-align: center;
+  
+}
+
+/* CSS para centrar el iframe */
+.contenedor-iframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ajusta la altura al 100% de la ventana gráfica */
+}
+
+body {
+  background: url(./imagenes/foto_1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#color-fondo {
+  background-color: black;
+  color: white;
+}
+
+#oracionInicial {
+  display: flex;
+  background-color: black;
+  color: white;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#evangelioDelDia{
+  display: flex;
+  background-color: black;
+  color: white;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#oracionFinal{
+  display: flex;
+  background-color: black;
+  color: white;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#form{
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+
+
+.lz{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.jh{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.cancion{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#videoContainer{
+  margin-top: 5px;
+  
+}
+
+.reflexion{
+  background-color: black;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 14px;
+}
+
+.final{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.inicial{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.evangelio{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+
+/* Estilo para la sección de comentarios */
+#contact {
+  padding: 10px; /* Ajusta el padding según tus necesidades */
+  margin: 10px auto; /* Ajusta el margin según tus necesidades */
+}
+
+/* Estilo para reducir el espacio entre elementos */
+#contact .container {
+  padding-top: 0; /* Elimina el padding superior */
+  margin-top: 0; /* Elimina el margin superior */
+}
+
+#contact .row {
+  margin-bottom: 1px; /* Ajusta el espacio inferior entre filas */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
